@@ -1,4 +1,9 @@
 # 🌍 Market-Segmentor AI: Global Economic Clustering
+![Python](https://img.shields.io/badge/Python-3.14+-blue.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B.svg)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML--Engine-F7931E.svg)
+![Plotly](https://img.shields.io/badge/Plotly-3D--Visualization-440154.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 An advanced MLOps project that uses Unsupervised Machine Learning to segment countries based on socio-economic indicators from the CIA World Factbook.
 
